@@ -1,0 +1,2 @@
+находясь в основной директории выполнить в командной строке:
+.\makefsdata.exe Web -f:Middlewares\Third_Party\LwIP\src\include\lwip\apps\fsdata.c
